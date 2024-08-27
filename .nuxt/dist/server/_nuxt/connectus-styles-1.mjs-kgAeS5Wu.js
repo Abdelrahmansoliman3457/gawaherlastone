@@ -1,0 +1,5 @@
+const connectus_vue_vue_type_style_index_0_scoped_3c533350_lang = "a[data-v-3c533350]{color:#000;font-size:16px}.aboutUs[data-v-3c533350],a[data-v-3c533350]{text-align:start}.aboutUs p[data-v-3c533350]{font-size:15px;line-height:2.5}.parag-view-f[data-v-3c533350]{background-color:var(--main-2);padding:30px 40px}.parag-view-f p[data-v-3c533350]{font-size:15px;line-height:2.5!important}.parag-view[data-v-3c533350]{background-color:#fff}.parag-view label[data-v-3c533350]{font-size:16px;margin-bottom:6px}.parag-view input[data-v-3c533350],.parag-view textarea[data-v-3c533350]{background-color:var(--main-2);border-radius:3px;font-size:15px;padding:10px 15px}.parag-view textarea[data-v-3c533350]{resize:none}.info[data-v-3c533350]{font-size:14px}.info>span[data-v-3c533350]:first-child{font-size:18px;padding-bottom:20px}.connect-title[data-v-3c533350]{font-size:18px!important;font-weight:600;margin:0}.submit_btn[data-v-3c533350]{background-color:#000;border-radius:5px;color:#fff;font-size:16px;padding:10px 0;width:40%}";
+export {
+  connectus_vue_vue_type_style_index_0_scoped_3c533350_lang as default
+};
+//# sourceMappingURL=connectus-styles-1.mjs-kgAeS5Wu.js.map

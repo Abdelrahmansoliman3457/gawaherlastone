@@ -1,0 +1,100 @@
+{
+  "Titles": {
+    "home": "الرئيسية",
+    "req": "مطلوب",
+    "aboutUs": "من نحن",
+    "trade_marks": "العلامات التجارية",
+    "trade_mark": "العلامة التجارية",
+    "our_vision": "رؤيتنا ورسالتنا",
+    "exec_msg": "رسالة الرئيس التنفيذي",
+    "news": "اخر الأخبار",
+    "our_exp": "خبرتنا",
+    "jobs": "الوظائف",
+    "connect_us": "تواصل معنا"
+  },
+  "nav_inks": {
+    "about_us": "من نحن",
+    "our_vision": "رؤيتنا ورسالتنا",
+    "trade_marks": "العلامات التجارية",
+    "exec_msg": "رسالة الرئيس التنفيذي",
+    "our_exp": "خبرتنا",
+    "news": "الأخبار",
+    "jobs": "الوظائف",
+    "connect_us": "تواصل معنا"
+  },
+
+  "home": {
+    "insta_page": "من صفحتنا على الانستقرام",
+    "share_website": "مشاركة الموقع"
+  },
+  "aboutUs": {
+    "jewelery": "المجوهرات",
+    "clothes": "الأزياء",
+    "fragrances": "العطور"
+  },
+  "trade_marks": {
+    "city": "المدينة",
+    "choose_city": "اختر المدينة",
+    "location": "الموقع"
+  },
+  "news_details": {
+    "news_details": "تفاصيل الخبر"
+  },
+  "OurVision": {
+    "our_vision": "رؤيتنا",
+    "our_msg": "رسالتنا"
+  },
+  "news": {
+    "view_news": "عرض تفاصيل الخبر"
+  },
+  "jobs": {
+    "yes": "نعم",
+    "no": "لا",
+    "first_name": "الاسم الأول",
+    "father_name": "اسم الأب",
+    "family_name": "اسم العائلة",
+    "gender": "الجنس",
+    "nationality": "الجنسية",
+    "select_nationality": "حدد الجنسية",
+    "status": "الحالة الاجتماعية",
+    "city": "المدينة",
+    "exp_years": "عدد سنوات الخبرة",
+    "enter_exp_years": "ادخل عدد سنوات الخبرة",
+    "work_city": "المدينة المرغوب العمل فيها",
+    "select_city": "حدد المدينة",
+    "department": "الإدارة التي ترغب بها",
+    "select_department": "حدد الإدارة التي ترغب بها",
+    "phone": "رقم الجوال",
+    "enter_phone": "ادخل رقم الجوال",
+    "email": "البريد الإلكتروني",
+    "enter_email": "ادخل البريد الإلكتروني",
+    "birth_city": "ادخل المدينة",
+    "birth_date": "تاريخ الميلاد",
+    "birth_day": "اليوم",
+    "birth_month": "الشهر",
+    "birth_year": "السنة",
+    "choose_birth_day": "اختر اليوم",
+    "choose_birth_month": "اختر الشهر",
+    "choose_birth_year": "اختر السنة",
+    "education": "المؤهل التعليمي",
+    "enter_education": "ادخل المؤهل التعليمي",
+    "work_saudi": "هل سبق لك العمل في السعودية جواهر؟",
+    "relatives": "هل لديك أقارب يعملون أو سبق لهم العمل في السعودية جواهر؟",
+    "work_currently": "هل تعمل حاليًا؟",
+    "method": "حدد الوسيلة",
+    "vacancies": "كيف عرفت عن الوظائف الشاغرة لدينا",
+    "cv": "سيرتك الذاتية",
+    "photo": "صورة",
+    "send": "إرسال",
+    "message": "نص الرسالة",
+    "enter_message": "أدخل نص الرسالة",
+    "sent_successfully": "تم إرسال الرسالة بنجاح"
+  },
+  "connect_us": {
+    "address": "العنوان",
+    "phone": "الهاتف",
+    "email": "البريد الإلكتروني",
+    "cs": "خدمة العملاء",
+    "follow": "تابعنا"
+  }
+}

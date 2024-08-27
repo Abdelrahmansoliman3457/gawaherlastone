@@ -1,0 +1,100 @@
+{
+  "Titles": {
+    "home": "Home",
+    "req": "Required",
+    "aboutUs": "About Us",
+    "trade_marks": "Trade Marks",
+    "trade_mark": "Trade Mark",
+    "our_vision": "Vision & Mission",
+    "exec_msg": "Executive Message",
+    "news": "Latest News",
+    "our_exp": "Our Experience",
+    "jobs": "Jobs",
+    "connect_us": "Connect With Us"
+  },
+  "nav_inks": {
+    "about_us": "About Us",
+    "our_vision": "Vision & Mission",
+    "trade_marks": "Trade Marks",
+    "exec_msg": "Executive Message",
+    "our_exp": "Our Experience",
+    "news": "News",
+    "jobs": "Jobs",
+    "connect_us": "Connect With Us"
+  },
+  "home": {
+    "insta_page": "From Our Instagram Page",
+    "share_website": "Share Website"
+  },
+
+  "aboutUs": {
+    "jewelery": "Jewelery",
+    "clothes": "Clothes",
+    "fragrances": "Fragrances"
+  },
+  "trade_marks": {
+    "city": "city",
+    "choose_city": "choose city",
+    "location": "Location"
+  },
+  "news_details": {
+    "news_details": "News Details"
+  },
+  "OurVision": {
+    "our_vision": "Our Vision",
+    "our_msg": "Our Message"
+  },
+  "news": {
+    "view_news": "View News Details"
+  },
+  "jobs": {
+    "yes": "Yes",
+    "no": "No",
+    "first_name": "First Name",
+    "father_name": "Father Name",
+    "family_name": "Family Name",
+    "gender": "Gender",
+    "nationality": "Nationality",
+    "select_nationality": "Select Nationality",
+    "status": "Marital Status",
+    "city": "City",
+    "exp_years": "Experience Years",
+    "enter_exp_years": "Enter Experience Years",
+    "work_city": "Desired City To Work",
+    "select_city": "Select City",
+    "department": "Desired Department",
+    "select_department": "Select Desired Department",
+    "phone": "Phone",
+    "enter_phone": "Enter Phone Number",
+    "email": "Email",
+    "enter_email": "Enter Email",
+    "birth_city": "Select City",
+    "birth_date": "Birth Date",
+    "birth_day": "Day",
+    "birth_month": "Month",
+    "birth_year": "Year",
+    "choose_birth_day": "Choose Day",
+    "choose_birth_month": "Choose Month",
+    "choose_birth_year": "Choose Year",
+    "education": "Highest Obtained Degree",
+    "enter_education": "Enter Degree",
+    "work_saudi": "Have You Ever Worked In Saudi Gawaher?",
+    "relatives": "Do You Have Any Relatives Working In Or Ever Worked In Gawaher?",
+    "work_currently": "Do You Currently Work",
+    "method": "Choose Method",
+    "vacancies": "How Did You Hear About Available Vacancies",
+    "cv": "CV",
+    "photo": "Photo",
+    "send": "Send",
+    "message": "Message:",
+    "enter_message": "Enter Message",
+    "sent_successfully": "Message Sent Successfully"
+  },
+  "connect_us": {
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "cs": "Customer Service",
+    "follow": "Follow Us"
+  }
+}
